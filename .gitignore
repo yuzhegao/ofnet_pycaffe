@@ -1,0 +1,11 @@
+*.pyc
+*.swp
+
+*.jpg
+*.png
+*.mat
+
+Output/
+tmp/
+snapshot/
+test/
